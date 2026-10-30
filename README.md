@@ -8,9 +8,9 @@ Mérleg websites. Free to use with attribution.*
 
 | Adatkészlet / Dataset | Sorok / Rows | Frissítve / Updated | Fájlok / Files | Weboldal / Website |
 |---|---|---|---|---|
-| **Autósiskolák vizsgamutatói** – Driving schools: exam pass rates, training hours, ranking | 1394 | 2026-10-12 | [autosiskolak.csv](autosiskolak.csv) · [autosiskolak.json](autosiskolak.json) | [JogsiMérleg](https://jogsimerleg.hu/) |
+| **Autósiskolák vizsgamutatói** – Driving schools: exam pass rates, training hours, ranking | 1394 | 2026-10-26 | [autosiskolak.csv](autosiskolak.csv) · [autosiskolak.json](autosiskolak.json) | [JogsiMérleg](https://jogsimerleg.hu/) |
 | **Középiskolák érettségi eredményei** – Secondary schools: school-leaving exam results, ranking | 1037 | 2026-09-27 | [kozepiskolak.csv](kozepiskolak.csv) · [kozepiskolak.json](kozepiskolak.json) | [SuliMérleg](https://sulimerleg.hu/) |
-| **Idősotthonok és gondozóházak** – Nursing homes and temporary care homes: places, operator type | 966 | 2026-10-12 | [idosotthonok.csv](idosotthonok.csv) · [idosotthonok.json](idosotthonok.json) | [IdősotthonMérleg](https://idosotthonmerleg.hu/) |
+| **Idősotthonok és gondozóházak** – Nursing homes and temporary care homes: places, operator type | 965 | 2026-10-26 | [idosotthonok.csv](idosotthonok.csv) · [idosotthonok.json](idosotthonok.json) | [IdősotthonMérleg](https://idosotthonmerleg.hu/) |
 
 ## Oszlopok / Columns
 
